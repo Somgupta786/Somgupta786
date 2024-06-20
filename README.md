@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Som Gupta 👋</h2>
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+stack+developer;I'm+a+Problem+solver" /></a>
-</p>
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=109c5b&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Developer;Problem+Solver" alt="Headline" />
+</div> 
 
 <p align="center">
 <img align="middle" alt="GIF" src="https://i.pinimg.com/originals/65/a5/ec/65a5ec60b90f6b8faede3390ad5ee065.gif" />
